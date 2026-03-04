@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "assets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "asset_id": "A001", "asset_type": "cell_tower", "city": "Lehi", "lat": 40.3916, "lon": -111.8508, "status": "ACTIVE" }, "geometry": { "type": "Point", "coordinates": [ -111.8508, 40.3916 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A002", "asset_type": "fiber_hub", "city": "Lehi", "lat": 40.392, "lon": -111.845, "status": "ACTIVE" }, "geometry": { "type": "Point", "coordinates": [ -111.845, 40.392 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A003", "asset_type": "substation", "city": "American Fork", "lat": 40.3769, "lon": -111.7958, "status": "MAINT" }, "geometry": { "type": "Point", "coordinates": [ -111.7958, 40.3769 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A004", "asset_type": "hospital", "city": "Lehi", "lat": 40.413, "lon": -111.85, "status": "ACTIVE" }, "geometry": { "type": "Point", "coordinates": [ -111.85, 40.413 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A005", "asset_type": "cell_tower", "city": "Unknown", "lat": 40.4, "lon": -111.86, "status": "ACTIVE" }, "geometry": { "type": "Point", "coordinates": [ -111.86, 40.4 ] } },
+{ "type": "Feature", "properties": { "asset_id": "A007", "asset_type": "fire_station", "city": "Saratoga Springs", "lat": 40.349, "lon": -111.904, "status": "UNKNOWN" }, "geometry": { "type": "Point", "coordinates": [ -111.904, 40.349 ] } }
+]
+}
