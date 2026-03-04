@@ -1,0 +1,5 @@
+asset_id,asset_type,city,lat,lon,status
+A001,cell_tower,Lehi,40.3916,-111.8508,ACTIVE
+A002,fiber_hub,Lehi,40.3920,-111.8450,ACTIVE
+A003,substation,American Fork,40.3769,-111.7958,MAINT
+A004,hospital,Lehi,40.4130,-111.8500,ACTIVE

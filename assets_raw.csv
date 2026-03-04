@@ -1,0 +1,8 @@
+asset_id,asset_type,city,lat,lon,status
+A001,cell_tower,Lehi,40.3916,-111.8508,ACTIVE
+A002,fiber_hub,Lehi,40.3920,-111.8450,ACTIVE
+A003,substation,American Fork,40.3769,-111.7958,MAINT
+A004,hospital,Lehi,40.4130,-111.8500,ACTIVE
+A005,cell_tower,,40.4000,-111.8600,ACTIVE
+A006,water_tank,Lehi,not_a_number,-111.8700,ACTIVE
+A007,fire_station,Saratoga Springs,40.3490,-111.9040,
