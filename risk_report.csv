@@ -1,0 +1,7 @@
+asset_id,asset_type,risk_score,nearest_asset_id,nearest_asset_type,nearest_distance_m,radius_m
+A001,cell_tower,3,A002,fiber_hub,648.29,5000
+A002,fiber_hub,3,A001,cell_tower,648.29,5000
+A005,cell_tower,3,A001,cell_tower,1598.87,5000
+A004,hospital,3,A005,cell_tower,2202.51,5000
+A003,substation,0,A002,fiber_hub,5904.78,5000
+A007,fire_station,0,A001,cell_tower,8591.6,5000
