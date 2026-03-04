@@ -22,3 +22,7 @@ invalid_assets.downloaded.csv
 pipeline_metrics.json
 pipeline_metrics.downloaded.json
 last_run_id.txt
+gis_env/
+venv/
+__pycache__/
+*.pyc
