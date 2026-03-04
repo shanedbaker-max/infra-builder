@@ -49,3 +49,24 @@ This project also includes a geospatial infrastructure analysis layer built usin
 
 ### GeoJSON Conversion
 Asset data is converted into a spatial dataset:
+
+## Failure Simulation
+
+The project includes an infrastructure outage simulator.
+
+Example:
+
+python simulate_outage.py --asset A002
+
+This removes an asset from the network and recomputes nearest
+dependencies to measure cascading infrastructure impact.
+
+The simulator reports:
+- dependency changes
+- distance increases
+- impacted assets
+### Example Simulation Output
+
+![Outage A001](week01/docs/img/docs:img:outage_A001.png)
+![Outage A004](week01/docs/img/docs:img:outage_A004.png)
+![IRADashboard](week01/docs/img/I.R.A. Dashboard.png)

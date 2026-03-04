@@ -1,6 +1,6 @@
 asset_id,asset_type,old_nearest_asset_id,old_nearest_distance_m,new_nearest_asset_id,new_nearest_distance_m,delta_m,removed_asset_id,removed_asset_type
-A001,cell_tower,A002,494.44,A005,1216.59,722.15,A002,fiber_hub
-A003,substation,A002,4501.64,A001,4947.27,445.63,A002,fiber_hub
-A004,hospital,A005,1674.63,A005,1674.63,0.0,A002,fiber_hub
-A005,cell_tower,A001,1216.59,A001,1216.59,0.0,A002,fiber_hub
-A007,fire_station,A001,6541.54,A001,6541.54,0.0,A002,fiber_hub
+A001,cell_tower,A002,494.44,A002,494.44,0.0,A004,hospital
+A002,fiber_hub,A001,494.44,A001,494.44,0.0,A004,hospital
+A003,substation,A002,4501.64,A002,4501.64,0.0,A004,hospital
+A005,cell_tower,A001,1216.59,A001,1216.59,0.0,A004,hospital
+A007,fire_station,A001,6541.54,A001,6541.54,0.0,A004,hospital
