@@ -42,3 +42,10 @@ python s3_upload.py
 Download and verify
 
 python s3_download_verify.py
+
+## Infrastructure Spatial Analysis
+
+This project also includes a geospatial infrastructure analysis layer built using GeoPandas.
+
+### GeoJSON Conversion
+Asset data is converted into a spatial dataset:
