@@ -12,3 +12,13 @@ venv/
 
 # macOS
 .DS_Store
+
+# pipeline artifacts
+assets_clean.csv
+assets_clean.downloaded.csv
+assets_downloaded.csv
+invalid_assets.csv
+invalid_assets.downloaded.csv
+pipeline_metrics.json
+pipeline_metrics.downloaded.json
+last_run_id.txt
