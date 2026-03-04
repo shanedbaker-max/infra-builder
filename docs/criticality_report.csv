@@ -1,0 +1,7 @@
+removed_asset_id,removed_asset_type,assets_impacted,total_delta_m,max_delta_m
+A001,cell_tower,3,1637.68,1058.26
+A002,fiber_hub,2,1167.78,722.15
+A005,cell_tower,1,695.57,695.57
+A003,substation,0,0.0,0.0
+A004,hospital,0,0.0,0.0
+A007,fire_station,0,0.0,0.0
