@@ -70,3 +70,9 @@ The simulator reports:
 ![Outage A001](week01/docs/img/docs:img:outage_A001.png)
 ![Outage A004](week01/docs/img/docs:img:outage_A004.png)
 ![IRADashboard](week01/docs/img/I.R.A. Dashboard.png)
+![Simulator](week01/docs/img/InfrastructureDigitalTwinSimulator.png)
+
+Infrastructure Resilience Modeling
+- Distance outage impact
+- Graph network criticality
+- Interactive infrastructure map
